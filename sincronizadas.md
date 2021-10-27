@@ -7,3 +7,5 @@ Ingredientes:
 - 1 lata de chile chipotle
 - 50 mililitros de crema ácida
 - hojas de lechuga verde
+
+INGREDIENTE_SECRETO=3-AGUACATES
